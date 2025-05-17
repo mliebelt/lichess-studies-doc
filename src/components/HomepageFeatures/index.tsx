@@ -1,50 +1,42 @@
-import type {ReactNode} from 'react';
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import type { ReactNode } from "react";
+import clsx from "clsx";
+import Heading from "@theme/Heading";
+import styles from "./styles.module.css";
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
+  Svg: React.ComponentType<React.ComponentProps<"svg">>;
   description: ReactNode;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Einfach zu nutzen",
+    Svg: require("@site/static/img/chess-player.svg").default,
+    description: (
+      <>Lichess Studien sind sehr einfach zu erstellen und zu bedienen, aber sie sind sehr mächtig, und haben viele, teils versteckte Möglichkeiten.</>
+    ),
+  },
+  {
+    title: "Was zählt",
+    Svg: require("@site/static/img/morphing.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Diese Dokumentation hilft mit dem Einstieg, und versucht dabei den Brückenschlag von "was man zu Beginn wissen sollte" zu "wie man erweiterte Funktionen
+        nutzen kann, um überraschendes zu erreichen."
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
-    ),
+    title: "Überraschend im Ergebnis",
+    Svg: require("@site/static/img/lichess-knight.svg").default,
+    description: <>Alles von Partienalaysen, Unterrichtseinheiten, Selbstlernmaterial, und auch die Integration in den Rest der Welt.</>,
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description }: FeatureItem) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx("col col--4")}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
