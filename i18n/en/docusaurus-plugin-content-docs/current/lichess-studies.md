@@ -1,7 +1,15 @@
-# Example Page
+---
+sidebar_position: 1
+---
+# Lichess Studies
 
-This is an example page in English.
+What is it all about? Many people know about the great studies in Lichess, but how do you really use them? This documentation is intended to close the gap that still exists here. An attempt will be made to make the documentation complete and to describe in detail everything that is possible with studies in any form.
 
-## Subsection
+The following categorization is planned:
 
-Here's a subsection with more content.
+* Generation of studies: which parameters, what to consider, ...
+* Use of studies: Detailed use cases, what to consider when using them
+* Reference with the following chapters:
+  * Collaboration with others
+  * Typical errors
+  * ...
