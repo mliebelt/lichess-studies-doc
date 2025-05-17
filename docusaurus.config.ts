@@ -51,8 +51,8 @@ const config: Config = {
     navbar: {
       title: "Lichess Studien",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "Lichess Studien dokumentiert",
+        src: "img/lichess-favicon-32.png",
       },
       items: [
         {
