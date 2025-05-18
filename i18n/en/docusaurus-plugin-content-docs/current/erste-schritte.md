@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Getting Started with Lichess Studies
 
 ## Creating an Account
@@ -7,8 +10,6 @@
 3. Select "Register".
 4. Fill out the form with:
    - Username
-   - Email address
-   - Password
 5. Accept the terms of service.
 6. Click on "Register".
 7. Confirm your email address via the link sent to you.

@@ -79,7 +79,7 @@ const config: Config = {
           items: [
             {
               label: "Material",
-              to: "/docs/lichess-studies",
+              to: "/docs/einfuehrung",
             },
           ],
         },

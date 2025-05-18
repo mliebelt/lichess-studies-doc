@@ -1,3 +1,6 @@
+---
+sidebar_position: 2
+---
 # Erste Schritte mit Lichess-Studien
 
 ## Ein Konto erstellen

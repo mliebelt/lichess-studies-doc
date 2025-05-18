@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Einführung in Lichess-Studien
 
 ## Was sind Lichess-Studien?
