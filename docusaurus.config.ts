@@ -79,7 +79,7 @@ const config: Config = {
           items: [
             {
               label: "Material",
-              to: "/docs/einfuehrung",
+              to: "/docs/introduction",
             },
           ],
         },

@@ -20,20 +20,21 @@
 - Navigating the Lichess interface
 - Creating your first study
 
-### c. Basic Features
-- Adding moves and variations
-- Commenting on positions
-- Sharing studies
+### c. Structure of Studies
+- Organizing many structures
+- Organizing one structure with chapters
+- What is inside one chapter
 
-### d. Intermediate Topics
-- Organizing chapters
-- Collaborating with others
-- Using analysis tools
+### d. Main Use Cases for Studies (base)
+- Record your own games (base)
+- Work on your openings by managing opening trees (base)
+- Providing lectures for teaching (base)
+- Collect material somehow
 
-### e. Advanced Features
-- Custom themes and board settings
-- Embedding studies in websites
-- API integration
+### e. Advanced Use Cases for Studies (base)
+- Record games of many people
+- Setup for different training situations
+- How to share and how to avoid
 
 ### f. Best Practices
 - Study organization tips
