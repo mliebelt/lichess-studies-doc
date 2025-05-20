@@ -28,6 +28,11 @@ Beim Erstellen einer Studie müssen Sie einige Informationen angeben, wir gehen 
     * Nein: Unabhängige Navigation für alle  ==> Beliebig viele Teilnehmer können gleichzeitig die Studie öffnen, und völlig frei navigieren. Es ist sogar möglich, gleichzeitig aktiv an den Zügen der Studie zu arbeiten, natürlich in unterschiedlichen Kapiteln, aber sogar auch im selben Kapitel. Immer vorausgesetzt, dass man Schreibrechte in der Studie hat.
 7. **Angepinnter Studienkommentar**: Der Studienkommentar steht die ganze Zeit unter der Studie, ist also kein Kommentar, der auf ein Kapitel (und dort auf eine Stellung) bezogen ist. Denkbar wäre, hier zusätzliche Informationen zur Studie unterzubringen. Die Werte sind "Keine" oder "Direkt unterhalb des Bretts". Leute, die mit Markdown umgehen können, haben hier die Möglichkeit, auch durchaus interessanten Text zu gestalten.
 
+Wenn man eine Studie nachträglich bearbeitet, dann hat man noch die folgenden Optionen:
+
+* **Studie löschen**: Tut, was es sagt. Zur Sicherheit muss man noch den Namen der Studie korrekt angeben, damit man eine Studie löschen kann.
+* **Chat löschen**: Wenn man der vielen Kommentare im Chat müde ist, und ihn wieder zurück setzen möchte. Es gab bis dahin nämlich keine Möglichkeit, den Chat nachträglich zu verändern.
+
 ### Rollen von Teilnehmern einer Studie
 
 Die folgenden Rollen tauchen immer wieder auf, und sollen deshalb hier zentral erklärt werden. Sie werden an unterschiedlichsten Stellen immer wieder in ähnlicher Weise verwendet.
