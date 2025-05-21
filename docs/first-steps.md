@@ -1,5 +1,6 @@
 ---
 sidebar_position: 2
+title: Erste Schritte
 ---
 # Erste Schritte mit Lichess-Studien
 
@@ -42,5 +43,20 @@ Da wir hier vor allem die Studien beschreiben wollen, erklären wir nur, welche 
 7. Lassen Sie die Einstellungen, wie sie sind, und Bestätigen Sie mit "Kapitel erstellen".
 
 Glückwunsch! Sie haben Ihre erste Lichess-Studie erstellt und sind bereit, tiefer in die Welt der Schachanalyse einzutauchen. Machen Sie gleich ein paar Experimente: Machen Sie einige Züge (Hauptvariante); gehen Sie einige Züge zurück (die Züge werden automatisch gespeichert und bleiben erhalten); wählen Sie nun eine Variante (und es entsteht eine Variante im Schach, ohne Obergrenze).
+
+![Lichess study interface](images/01_intro.png "Oberfläche von Lichess-Studien")
+
+*Figure 1: Beispiel einer Studie mit nur einem Kapitel, siehe [Link dazu](https://lichess.org/study/G0W09DYp/EWTIrVwa#last)*
+
+## Aufbau der Oberfläche einer Studien
+
+Die Lichess-Studie hat einen systematischen Aufbau, den man bei der Nutzung kennen sollte. Dabei werden die einzelnen Teile (je nach vorhandenem Platz) unterschiedlich dargestellt. Hier eine knappe Übersicht:
+
+* Linke Seite: Verwaltung der Studie (das Zahnrad), Einteilung in Kapitel, Verwaltung der Mitglieder, Suche, und ein großer Chatraum, den jeder Benutzer ein- oder ausschalten kann.
+* Das Brett: Dasselbe Brett wie bei der Analyse, oder auch dem Online-Spiel. Alle Änderungen an den Bretteinstellungen werden hier automatisch übernommen.
+* Notation und Werkzeuge: Oben Stockfish mit seiner Konfiguration (später mehr); darunter die Züge der Notation, inlusive der Variante, Kommentare, NAGs, ...; darunter die Navigation (Buttons für Anfang, zurück, vor, Ende und weitere Optionen), ganz links die Eröffnungs- und Endspieldatenbank.
+* Unten
+  * Wenn so eingestellt, der Studienkommentar. Von mir hier genutzt, um auf die Dokumentation zu verweisen (mal sehen, wann die Studie von anderen entdeckt wird).
+  * Darunter dann verschiedene Reiter für zusätzliche Werkzeuge, hier das Kommentarfeld.
 
 Damit lassen wir es für den Moment genug sein. Sie können ihre erstellte Studie nun an andere weitergeben, indem Sie einfach in die URL-Zeile ihres Browsers klicken, und die URL dort kopieren. Diese URL steht für ihre Studie, und ist alles, was Sie brauchen, um die Studie zu sharen. Mehr dazu später, wenn es um das Sharen von Studien geht.

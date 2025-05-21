@@ -1,5 +1,6 @@
 ---
 sidebar_position: 6
+title: Best Practices
 ---
 # Best Practices für Lichess-Studien
 
