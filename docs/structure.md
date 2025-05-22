@@ -4,6 +4,26 @@ title: Struktur
 ---
 # Struktur von Lichess-Studien
 
+## Verwaltung der Studien
+
+Bevor wir uns den Aufbau einer Studie und ihre Einstellungen anschauen, hier einige Hinweise zur Verwaltung von Studien in Summe.
+
+![Verwaltung von Lichess-Studien](images/02_studies-overview.png "Verwaltung von Lichess-Studien")
+
+*Figure 2: Verwaltungsoberfläche für Studien*
+
+* Studien werden dananch klassifiziert, wem sie gehören, und ob Sie darauf Zugriff haben.
+* Damit sind die ersten Einträge die Folgenden:
+  * Alle Studien: Alle Studien, auf die Sie Zugriff haben, und die durchsuchbar sind. D.h. Sichtbarkeit öffentlich bzw. Mit Einladung. Eine Studie, zu der Sie nicht eingeladen sind mit der Sichtbarkeit "Ungelistet" wird hier nicht aufgeführt.
+  * Meine Studien: Alle Studien, deren Besitzer ich bin.
+  * Studien, an denen ich mitwirke: Alle Studien, bei denen Sie Mitwirkender (Schreibrechte) oder Mitglied (Leserechte) sind.
+  * Meine öffentlichen Studien: Der Titel ist hier eindeutig, es werden nur Studien angezeigt, die ihnen gehören, und die die Sichtbarkeit "Öffentlich" haben.
+  * Meine privaten Studien: Alle Studien, die ihnen gehören, und die entweder Sichtbarkeit "Ungelistet" oder "Nur mit Einladung" haben.
+  * Meine Lieblingsstudien: Studien, auf die Sie Zugriff haben, und denen Sie ein Herz geschenkt haben.
+  * Themen: Einstieg in die Verwaltung der Studien über Themen, siehe Kapitel darunter.
+  * Staff Picks: Studien, die öffentlich sind, und von den Betreibern von Lichess vorgeschlagen werden. Hier werden aktuell die Kategorien Opening (Eröffnung), Middlegame (Mittelspiel), Endgame (Endspiel), World Chess Championships (Weltmeisterschaften), Miscellaneous (Verschiedenes) und Puzzle Packs (Puzzle-Pakete) unterschieden.
+  * Was sind Studien?: Die einzige Beschreibung zu Studien, die einen sehr guten Überblick gibt, aber vieles offen lässt. Hier ist der [Link](https://lichess.org/@/lichess/blog/study-chess-the-lichess-way/V0KrLSkA).
+
 ## Aufbau einer Studie
 
 Beim Erstellen einer Studie müssen Sie einige Informationen angeben, wir gehen kurz durch, was die Bedeutung dieser Angaben sind:
