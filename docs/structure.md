@@ -35,7 +35,7 @@ Beim Erstellen einer Studie müssen Sie einige Informationen angeben, wir gehen 
     * Ungelistet: diese sind zwar sichtbar, aber nicht auffindbar. Ein Benutzer, der nicht aktiv an einer Studie beteiligt ist (mehr dazu später) kann diese nur öffnen, wenn er den Link auf die Studie hat.
     * Nur mit Einladung: hier können nur Teilnehmer an der Studie (mehr zu den unterschiedlichen Rollen später) die Studie öffnen. Selbst wenn jemand den Link hat, kann er oder sie trotzdem nicht auf den Inhalt der Studie zugreifen.
 3. **Chat**: Auch hier gibt es unterschiedliche Möglichkeiten, wer in welcher Form am Chat partizipieren kann. Ich habe dafür bisher keine Nutzanwendung finden können.
-3. **Computer-Analyse**: Auch hier sind verschiedene MÖglichkeiten vorgesehen:
+3. **Computer-Analyse**: Auch hier sind verschiedene Möglichkeiten vorgesehen:
     * Niemand: keiner in der Studie kann die integrierte Engine nutzen. Das ist vor allem für Trainingssituationen nützlich, so dass die Teilnehmenden nicht mal schnell die Engine anschalten, um nicht selbst nachdenken zu müssen.
     * Nur ich: d.h. der Ersteller der Studie. Wir kommen später zu den verschiedenen Rollen von Personen in einer Studie.
     * Mitwirkende: d.h. die aktiven Teilnehmer einer Studie, die die Studieninhalte also ändern können.
@@ -47,7 +47,7 @@ Beim Erstellen einer Studie müssen Sie einige Informationen angeben, wir gehen 
 6. **Sync aktivieren**: Das ist eine der wichtigsten Einstellungen, da sie darüber entscheidet, ob eine Studie mit anderen in synchronen Sessions verwendet werden kann oder nicht. Folgende Einstellungen sind möglich:
     * Ja: Gleiche Stellung für alle ==> Teilnehmer, die eine Studie zur gleichen Zeit verwenden, sehen zu jedem Zeitpunkt die gleiche Stellung. Dies wird detailliert erklärt, auch wie sich verschiedene Rollen auf die Nutzung auswirken. Dabei bestimmt der Besitzer der Studie bzw. alle Mitwirkenden, welche Stellung aktuell gezeigt wird. Alle anderen können zwar selbständig Züge machen, aber entkoppeln sich dann von der synchronen Studie. Mehr dazu später in XYZ.
     * Nein: Unabhängige Navigation für alle  ==> Beliebig viele Teilnehmer können gleichzeitig die Studie öffnen, und völlig frei navigieren. Es ist sogar möglich, gleichzeitig aktiv an den Zügen der Studie zu arbeiten, natürlich in unterschiedlichen Kapiteln, aber sogar auch im selben Kapitel. Immer vorausgesetzt, dass man Schreibrechte in der Studie hat.
-7. **Angepinnter Studienkommentar**: Der Studienkommentar steht die ganze Zeit unter der Studie, ist also kein Kommentar, der auf ein Kapitel (und dort auf eine Stellung) bezogen ist. Denkbar wäre, hier zusätzliche Informationen zur Studie unterzubringen. Die Werte sind "Keine" oder "Direkt unterhalb des Bretts". Leute, die mit Markdown umgehen können, haben hier die Möglichkeit, auch durchaus interessanten Text zu gestalten.
+7. **Angepinnter Studienkommentar**: Der Studienkommentar steht die ganze Zeit unter der Studie, ist also kein Kommentar, der auf ein Kapitel (und dort auf eine Stellung) bezogen ist. Denkbar wäre, hier zusätzliche Informationen zur Studie unterzubringen. Die Werte sind "Keine" oder "Direkt unterhalb des Bretts". Echte URLs werden automatisch in Hyperlinks verwandelt, sonst ist leider keine Formatierung möglich.
 
 Wenn man eine Studie nachträglich bearbeitet, dann hat man noch die folgenden Optionen:
 
