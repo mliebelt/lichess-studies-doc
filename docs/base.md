@@ -2,48 +2,48 @@
 sidebar_position: 4
 title: Basisnutzung
 ---
-# Hauptanwendungsfälle für Lichess-Studien
+# Basisnutzung von Lichess-Studien
 
-## 1. Partieanalyse
+REGIE: Das Folgende sind Vorschläge mit Themenblöcken, die dann durch die konkrete Ausgestaltung ersetzt werden.
 
-- Laden Sie gespielte Partien in eine Studie.
-- Analysieren Sie kritische Positionen und Entscheidungen.
-- Nutzen Sie die Computeranalyse für objektive Einschätzungen.
-- Markieren Sie Schlüsselmomente und Wendepunkte.
+## 1. Das Brett
 
-## 2. Eröffnungsvorbereitung
+- Umgang mit dem Brett
+- Optionen wie beim Spielen / bei der Analyse
+- Optionen relevant für Studien
 
-- Erstellen Sie ein Repertoire für Weiß und Schwarz.
-- Dokumentieren Sie Theorie und eigene Ideen.
-- Üben Sie spezifische Varianten mit dem Trainingsmodus.
-- Aktualisieren Sie Ihr Repertoire basierend auf neuen Erkenntnissen.
+## 2. Die Notation
 
-## 3. Endspieltraining
+- Wie entsteht die Notation?
+- Welche Ergänzungen sind wie möglich?
+- Umgang mit Kommentaren und Varianten
+_ Optionen des Hamburger-Menus
 
-- Sammeln Sie wichtige Endspielstellungen.
-- Üben Sie Techniken für verschiedene Endspieltypen.
-- Nutzen Sie die Tablebase für perfekte Endspielanalysen.
-- Erstellen Sie Übungen für häufige Endspielszenarien.
+## 3. Weitere Optionen unter dem Brett
 
-## 4. Taktisches Training
+- Was sind die Tags, welche davon sollten wann wie gefüllt werden?
+- Die Bedeutung der Buttons SYNC und REC (im Überblick)
+- Kommentare: was geht, was nicht
+- NAGs im Detail
+- Computeranalyse und Multibrett
+- Möglichkeiten zum teilen
 
-- Sammeln Sie interessante taktische Motive.
-- Erstellen Sie Übungen mit steigendem Schwierigkeitsgrad.
-- Kategorisieren Sie Taktiken (Gabel, Spieß, Abzugsschach, etc.).
-- Nutzen Sie Kommentare, um Lösungswege zu erklären.
+## 4. Das Eröffnungsbuch & die Tablebase
 
-## 5. Unterrichtsmaterial erstellen
+- Wie kann man das Eröffnungsbuch in Studien nutzen?
+- Und wie funktioniert hier die Tablebase?
 
-- Strukturieren Sie Lektionen in Kapiteln.
-- Fügen Sie erklärende Kommentare für Schüler hinzu.
-- Erstellen Sie Übungen und Quizfragen.
-- Teilen Sie Studien mit Ihren Schülern.
+## 5. Übergänge zu Studien
 
-## 6. Turniervorbereitung
+Wie kommmt man von unterschiedlichsten Stellen in Lichess in eine Studie, welche Möglichkeiten hat man dabei?
+
+- Aufnahme von Spielen in eine Studie.
+- Hinzufügen der aktuellen Analyse zu einer Studie.
+- Aufnahme einer Stellung des Brett-Editors in eine Studie.
+
+## 6. Typische Szenarien in der Nutzung
 
 - Analysieren Sie Partien potenzieller Gegner.
 - Bereiten Sie spezifische Eröffnungsvarianten vor.
 - Dokumentieren Sie typische Mittel- und Endspielstrategien Ihrer Gegner.
 - Erstellen Sie einen Turnierplan mit Zielen und Strategien.
-
-Durch die effektive Nutzung dieser Anwendungsfälle können Sie Ihr Schachverständnis vertiefen und Ihre Spielstärke verbessern.
