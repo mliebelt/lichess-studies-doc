@@ -4,6 +4,8 @@ title: Best Practices
 ---
 # Best Practices für Lichess-Studien
 
+REGIE: Das Folgende sind Vorschläge mit Themenblöcken, die dann durch die konkrete Ausgestaltung ersetzt werden.
+
 ## Organisationstipps
 
 1. **Klare Namensgebung**: Verwenden Sie aussagekräftige Titel für Studien und Kapitel.

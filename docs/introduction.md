@@ -14,6 +14,12 @@ Hauptmerkmale von Lichess-Studien:
 - Zusammenarbeit mit anderen Spielern in Echtzeit
 - Teilen von Studien mit der Schachgemeinschaft
 
+Und wenn Sie jetzt fragen, warum man nicht statt dessen Chessbase oder chess.com nutzen sollten, sollten Sie sich die folgenden Vorteile von Lichess-Studien ansehen:
+
+* Kostenfrei: Lichess hat noch nie etwas gekostet, und das Versprechen ist, dass es nie was kosten wird. Es gibt keine Bezahlschranke für gar nichts, jeder Nutzer muss nur einen Account erstellen, um zu beginnen.
+* Lichess ist online: Lichess-Studien sind immer verfügbar und können von überall aus bearbeitet werden.
+* Alle Werkzeuge von Chessbase sind vorhanden: Sie haben (fast) denselben Luxus wie bei Chessbase. Erst bei extremer Nutzung (mit vielen 100 Partien im Jahr, oder ab einer DWZ von > 2.200) könnte Chessbase einen Unterschied machen. Für Vereinsspieler und Amateure bietet Lichess-Studien eine einfache und kostenlose Alternative.
+
 ## Warum Lichess-Studien nutzen?
 
 1. **Verbesserung des Schachverständnisses**: Durch die Analyse von Partien und Positionen können Spieler ihr taktisches und strategisches Verständnis vertiefen.

@@ -24,6 +24,32 @@ Before we look at the structure of a study and its settings, here are some notes
   * Staff picks: Studies that are public and suggested by the Lichess operators. Currently, the categories Opening, Middlegame, Endgame, World Chess Championships, Miscellaneous, and Puzzle Packs are distinguished.
   * What are Studies?: The only description of studies that gives a very good overview but leaves many things open. Here is the [link](https://lichess.org/@/lichess/blog/study-chess-the-lichess-way/V0KrLSkA).
 
+### Handling Topics
+
+Topics (tags) in studies are ways to pack keywords into a study to make it easier to find later. If you think you don't need this, you should remember it when searching among your (now) 150 studies. We can't provide a suitable structure for everyone here, but we can explain where topics can help.
+
+![Catalog of Topics](images/03_tags.png "Catalog of Topics")
+
+*Figure 3: Catalog of Topics*
+
+I create a good portion of the studies for our club, and I get along well with the following structure:
+
+* Some studies have a time reference, where the year helps. These include, for example, games of players in tournaments that are to be analyzed together afterwards.
+* Many studies are intended for a specific group of participants: for the team; the chess club; youth chess. This gives you a first distinction.
+* Sometimes this is still too broad. We used to use the Brackeler method (today: Stappen), and have the terms "Pawn Diploma" (Stappen 1), "Knight Diploma" (Stappen 2), "Bishop Diploma" (Stappen 3), "Rook Diploma" (Stappen 4), "Queen Diploma" (Stappen 5). This fits quite well, I then have 3-5 studies per Stappen teacher's book.
+* Freely created studies often have a relation to chess: Opening, Strategy, Tactics, Endgame, ...
+* Often you take books and extract some chapters or sections from them. With a lot of material (Silman) a topic is also worthwhile here.
+
+The access in the Lichess interface is now this:
+
+1. You go to your studies, there to the topics.
+2. You now see a list of all topics you have used in studies so far.
+3. When clicking on a topic, all studies in which this topic was used are displayed on the right.
+
+Alternatively, you can also click on a topic anywhere, and all studies with that topic will be displayed.
+
+Limitation: Unfortunately, topics cannot be linked with each other (with and and or). But maybe that will come someday.
+
 ## Structure of a Study
 
 When creating a study, you need to provide some information. We'll go through briefly what these entries mean:
@@ -73,10 +99,32 @@ The following roles appear again and again and should therefore be explained cen
 
 ### Sensible Combinations of Settings
 
-The following constellations are considered:
+Some settings influence each other and should therefore be sensibly coordinated. Here are the two that make sense to coordinate, later (especially for chapters) more sensible combinations will be mentioned.
 
-* Cloning and Sharing and exporting
-* Computer Analysis and Opening Book & Tablebase
+#### Cloning and Sharing & Exporting
+
+As a reminder:
+
+* Cloning is a way to duplicate a study and edit the duplicates.
+* Sharing & Exporting is a way to export a study to other formats.
+
+Here are the combinations that make sense from my point of view:
+
+* Cloning and Sharing & Exporting for everyone: no restrictions, so others can do everything with it (except change). :heavy_check_mark:
+* Cloning and Sharing & Exporting for participants: the restriction applies only to non-participants. :heavy_check_mark:
+* Cloning for few, Sharing and Exporting rather allowed: this essentially allows everything that can be done after cloning, but more cumbersome. :question:
+* Cloning for many, Sharing and Exporting restricted: this makes no sense at all, as cloning is only possible via the "Share and Export" tab. :exclamation:
+
+My recommendation: Either allow generally or forbid, and always keep synchronized. :heavy_check_mark:
+
+#### Computer Analysis and Opening Book & Tablebase
+
+These two settings are not necessarily dependent on each other, but since they are settings for the entire study (i.e., all chapters), they should usually be synchronized.
+
+* Computer Analysis and Opening Book & Tablebase for everyone: useful for collaborative work on content, without restrictions. :heavy_check_mark:
+* Computer Analysis and Opening Book & Tablebase for participants: typical training situation, when the trainer knows more (or has access to more tools). :heavy_check_mark:
+* Computer Analysis (no) and Opening Book & Tablebase (yes): This can make sense if you have complex positions (especially) where opening book and tablebase don't help. Just as well, you could forbid them (and thus have fewer icons on the interface). :question:
+* Computer Analysis and Opening Book & Tablebase (no): This means no one is allowed to use the tools, I've never had this as a requirement. :exclamation:
 
 ## Organizing Chapters
 

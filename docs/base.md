@@ -12,7 +12,7 @@ REGIE: Das Folgende sind Vorschläge mit Themenblöcken, die dann durch die konk
 - Optionen wie beim Spielen / bei der Analyse
 - Optionen relevant für Studien
 
-## 2. Die Notation
+## 2. Die Notation samt Erweiterungen
 
 - Wie entsteht die Notation?
 - Welche Ergänzungen sind wie möglich?

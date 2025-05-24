@@ -52,9 +52,9 @@ Glückwunsch! Sie haben Ihre erste Lichess-Studie erstellt und sind bereit, tief
 
 Die Lichess-Studie hat einen systematischen Aufbau, den man bei der Nutzung kennen sollte. Dabei werden die einzelnen Teile (je nach vorhandenem Platz) unterschiedlich dargestellt. Hier eine knappe Übersicht:
 
-* Linke Seite: Verwaltung der Studie (das Zahnrad), Einteilung in Kapitel, Verwaltung der Mitglieder, Suche, und ein großer Chatraum, den jeder Benutzer ein- oder ausschalten kann.
+* Linke Seite: Verwaltung der Studie (das Zahnrad für Kapitel, das Hamburger Menü für die Einstellungen der Studie), Einteilung in Kapitel, Verwaltung der Mitglieder, Suche, und ein großer Chatraum, den jeder Benutzer ein- oder ausschalten kann.
 * Das Brett: Dasselbe Brett wie bei der Analyse, oder auch dem Online-Spiel. Alle Änderungen an den Bretteinstellungen werden hier automatisch übernommen.
-* Notation und Werkzeuge: Oben Stockfish mit seiner Konfiguration (später mehr); darunter die Züge der Notation, inlusive der Variante, Kommentare, NAGs, ...; darunter die Navigation (Buttons für Anfang, zurück, vor, Ende und weitere Optionen), ganz links die Eröffnungs- und Endspieldatenbank.
+* Notation und Werkzeuge rechts: Oben Stockfish mit seiner Konfiguration (später mehr); darunter die Züge der Notation, inlusive der Variante, Kommentare, NAGs, ...; darunter die Navigation (Buttons für Anfang, zurück, vor, Ende und weitere Optionen), ganz links die Eröffnungs- und Endspieldatenbank.
 * Unten
   * Wenn so eingestellt, der Studienkommentar. Von mir hier genutzt, um auf die Dokumentation zu verweisen (mal sehen, wann die Studie von anderen entdeckt wird).
   * Darunter dann verschiedene Reiter für zusätzliche Werkzeuge, hier das Kommentarfeld.

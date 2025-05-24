@@ -24,6 +24,32 @@ Bevor wir uns den Aufbau einer Studie und ihre Einstellungen anschauen, hier ein
   * Staff Picks: Studien, die öffentlich sind, und von den Betreibern von Lichess vorgeschlagen werden. Hier werden aktuell die Kategorien Opening (Eröffnung), Middlegame (Mittelspiel), Endgame (Endspiel), World Chess Championships (Weltmeisterschaften), Miscellaneous (Verschiedenes) und Puzzle Packs (Puzzle-Pakete) unterschieden.
   * Was sind Studien?: Die einzige Beschreibung zu Studien, die einen sehr guten Überblick gibt, aber vieles offen lässt. Hier ist der [Link](https://lichess.org/@/lichess/blog/study-chess-the-lichess-way/V0KrLSkA).
 
+### Umgang mit Themen
+
+Themen (engl. Tags) in den Studien sind Möglichkeiten, Stichwörter in eine Studie zu packen, um sie leichter wiederzufinden. Wenn man nun glaubt, dass man das nicht braucht, sollte man sich daran erinnern, wenn man unter den (inzwischen) 150 Studien sucht. Wir können hier keine passende Struktur für alle vorgeben, aber erklären, wo Themen helfen können.
+
+![Katalog von Themen](images/03_tags.png "Katalog von Themen")
+
+*Figure 3: Katalog von Themen*
+
+Ich erstelle für unseren Verein einen gut Teil der Studien, und komme mit der folgenden Struktur  gut zurecht:
+
+* Manche Studien haben einen Zeitbezug, dort hilft die Jahreszahl. Hier sind z.B. Partien von Spielern auf Turnieren, die anschließend gemeinsam analysiert werden sollen.
+* Viele Studien sind für einen bestimmten Teilnehmerkreis gedacht: für die Mannschaft; die Schach-AG; das Jugendschach. Damit hat man eine erste Unterscheidung.
+* Teilweise ist das noch zu grob. Wir hatten früher die Brackeler-Methode verwendet (heute: Stappen), und haben die Begriffe "Bauerndiplom" (Stappen 1), "Springerdiplom" (Stappen 2), "Läuferdiplom" (Stappen 3), "Turmdiplom" (Stappen 4), "DameDiplom" (Stappen 5). Das passt recht gut, ich habe dann 3-5 Studien pro Stappen-Lehrerheft.
+* Frei erstellte Studien haben oft einen Bezug zum Schach: Eröffnung, Strategie, Taktik, Endspiel, ...
+* Oft nimmt man Bücher, und extrahiert darauf einige Kapitel oder Abschnitte. Bei sehr viel Material (Silman) lohnt sich auch hier ein Thema.
+
+Der Zugang in der Lichess Oberfläche ist nun dieser:
+
+1. Sie gehen auf ihre Studien, dort auf die Themen.
+2. Sie sehen nun eine Liste aller Themen, die Sie bisher in Studien verwendet hatten.
+3. Beim Klicken auf ein Thema werden rechts alle Studien angezeigt, in denen dieses Thema verwendet wurde.
+
+Alternativ kann man auch ein Thema irgendwo anklicken, und es werden alle Studien mit dem Thema angezeigt.
+
+Einschränkung: Leider lassen sich Themen nicht miteinader (mit und und oder) verknüpfen. Aber vielleicht kommt das noch irgendwann.
+
 ## Aufbau einer Studie
 
 Beim Erstellen einer Studie müssen Sie einige Informationen angeben, wir gehen kurz durch, was die Bedeutung dieser Angaben sind:
@@ -73,10 +99,34 @@ Die folgenden Rollen tauchen immer wieder auf, und sollen deshalb hier zentral e
 
 ### Sinnvolle Kombinationen der Einstellungen
 
-Die folgenden Konstellationen werden betrachtet:
+Manche der Einstellungen beeinflussen sich gegenseitig, und sollten deshalb sinnvoll aufeinander abgestimmt werden. Hier die zwei sinnvoll zu koordinierenden, später werden (bei Kapiteln vor allem) noch weitere sinnvolle Kombinationen genannt.
 
-* Klonen und Teilen und exportieren
-* Computer-Analyse und Eröffnungsbuch & TablebasJa:L
+#### Klonen und Teilen und exportieren
+
+Zur Erinnerung:
+
+* Klonen ist eine Möglichkeit, eine Studie zu duplizieren und die Duplikate zu bearbeiten.
+* Teilen & Exportieren ist eine Möglichkeit, eine Studie in eine andere Formate zu exportieren.
+
+Hier die aus meiner Sicht sinnvollen Kombinationen:
+
+* Klonen und Teilen & Exportieren für alle: keine Einschränkungen, damit können andere alles damit tun (außer ändern). :heavy_check_mark:
+* Klonen und Teilen und Exportieren für Teilnehmer: die Einschränkung gilt nur für nicht-Teilnehmer. :heavy_check_mark:
+* Klonen für wenige, Teilen und Exportieren eher erlaubt: damit kann im Wesentlichen alles gemacht werden, was man nach Klonen auch machen kann, aber umständlicher. :question:
+* Klonen für viele, Teilen und Exportieren eingeschränkt: das macht gar keinen Sinn, da Klonen nur über den Reiter "Teilen und Exportieren" möglich ist. :exclamation:
+
+Meine Empfehlung: Entweder grundsätzlich erlauben, oder verbieten, und immer synchron halten. :heavy_check_mark:
+
+#### Computer-Analyse und Eröffnungsbuch & Tablebase
+
+Diese beiden Einstellungen sind nicht unbedingt von einander abhängig, aber da es Einstellungen für die ganze Studie (d.h. alle Kapitel) sind, sollten sie in der Regel synchronisiert werden.
+
+* Computer-Analyse und Eröffnungsbuch & Tablebase für alle: sinnvoll bei gemeinsamer Arbeit an Inhalten, ohne Einschränkungen. :heavy_check_mark:
+* Computer-Analyse und Eröffnungsbuch & Tablebase für Teilnehmer: typische Trainingssituation, wenn der Trainer mehr weiß (bzw. auf mehr Werkzeuge Zugriff hat). :heavy_check_mark:
+* Computer-Analyse (nein) und Eröffnungsbuch & Tablebase (ja): Das kann sinnvoll sein, wenn man komplexe Stellungen (vor allem) hat, wo Eröffnungsbuch und Tablebase nicht helfen. Genauso gut könnte man sie aber auch verbieten (und damit weniger Icons an der Oberfläche haben). :question:
+* Computer-Analyse und Eröffnungsbuch & Tablebase (nein): Damit darf niemand die Werkzeuge nutzen, hatte ich bisher nie als Anforderung. :exclamation:
+
+REGIE: Das Folgende sind Vorschläge mit Themenblöcken, die dann durch die konkrete Ausgestaltung ersetzt werden.
 
 ## Kapitel organisieren
 

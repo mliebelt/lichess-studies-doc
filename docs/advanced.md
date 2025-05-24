@@ -4,6 +4,8 @@ title: Fortgeschrittene Nutzung
 ---
 # Fortgeschrittene Funktionen von Lichess-Studien
 
+REGIE: Das Folgende sind Vorschläge mit Themenblöcken, die dann durch die konkrete Ausgestaltung ersetzt werden.
+
 ## Benutzerdefinierte Themen und Bretteinstellungen
 
 - Ändern Sie Farben und Stile des Schachbretts.
