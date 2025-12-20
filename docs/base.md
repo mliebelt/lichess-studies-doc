@@ -58,6 +58,34 @@ Es gibt hier einen einfachen Trick (der auch Nachteile hat): Wenn man in einer S
 
 ### Kommentare: was geht, was nicht
 
+Kommentare sind nach PGN überall erlaubt. Dies wird von Studien gut unterstützt und spielt speziell dann eine Rolle, wenn man interaktive Aufgaben designed, oder Züge verbirgt. Der Kommentar vor dem ersten Zug ist immer sichtbar. Alle weiteren Kommentare werden nun zwischen 2 Zügen eingefügt, und es ist ein wenig philosophisch, oder der Kommentar zum Zug davor oder danach gehört. Am besten sieht man dies, wenn man Varianten spielt. Von der UI her gibt es keine Möglichkeit, dies zu unterscheiden.
+
+Hier die zwei Screenshots, einmal die Inline-Notation, dann die in Spalten.
+
+![Inline Notation](images/04-inline-notation.png)
+![Spalten Notation](images/05-column-notation.png)
+
+Aufgrund der Darstellung neige ich dazu, Kommentare immer auf den vorherigen Zug zu beziehen. So sind diese auch leichter für den Leser zu verstehen.
+
+Kommentare können in jeder beliebigen Sprache erstellt werden, aber Sonderzeichen können evtl. verloren gehen, je nach der späteren Verarbeitung. Es handelt sich dabei um reinen Text, es werden keine komplexeren Textformate wie z.B. Markdown unterstützt. Leider auch keine Emoticons oder Smileys (die dann als echte Bilder gerendert werden).
+
+Die einzige Ausnahme bilden hier Links, die dann auch als Link gerendert werden. Umbrüche bleiben erhalten, es gibt natürlich später keine Gewähr, dass diese in der weiteren Verarbeitung korrekt sind.
+
+Wenn man Kommentare in mehrfach eingebetteten Varianten hat, so werden diese in immer kleineren Fonts dargestellt. Dabei werden Kommentare immer inline in allen Varianten angezeigt, nur top-level Kommentare werden ohne Einrückung dargestellt. 
+
+#### Kommentare in verborgenen Varianten
+
+Wenn man Studien erstellt, um neue Themen anderen beizubringen, dann sollte man darauf achten, wann Kommentare für diese sichtbar sind. Wird ein Zug verborgen, dann wird mit ihm auch der Kommentar nach dem Zug verborgen. D.h. wenn man etwas interaktiv fragen möchte, dann sollte die Antwort nicht vorher schon sichtbar sein. 
+
+#### Kommentare in Interaktiven Übungen
+
+Interaktive Übungen (LINK) dienen dazu, Lernende selbständig Übungen durchführen zu lassen. Dazu wird die Main Line gespielt, und der Lernende muss für eine Seite die Züge erraten. Die Kommentare vor dem Zug des Lernenden werden dann statt des Standardkommentars (Was würdest du in dieser Stellung spielen?) angezeigt. Damit kann man die Übungen lebendiger gestalten.
+
+Fügt man einen Kommentar nach einem Zug des Lernenden ein (d.h. einen Fehler, mit dem man rechnet), dann wird dieser Kommentar auch dann sichtbar, wenn der Lernende diesen falschen Zug ausführt. Wenn man einen Kommentar nach einem Zug des Lernenden in der Hauptvariante einfügt, dann wird dieser Kommentar auch angezeigt, durch Drücken der Leertaste geht es dann weiter. 
+
+![Interaktive Übung](images/06-comment-in-interactive-lesson.png)
+![Interaktive Übung](images/07-comment-in-interactive-lesson.png)
+
 ### NAGs im Detail
 
 ### Computeranalyse und Multi-Brett
