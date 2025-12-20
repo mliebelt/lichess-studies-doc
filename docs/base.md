@@ -25,9 +25,9 @@ Zur Bedienung des Bretts über die Tastatur, siehe [Tastenkürzel](#key-shortcut
 
 ### Was sind die Tags, welche davon sollten wann wie gefüllt werden?
 
-### Die Bedeutung der Buttons SYNC und REC
+### Die Bedeutung der Buttons `SYNC` und `REC`
 
-Die Buttons SYNC und REC dienen dazu, die Studie zu steuern. Dazu müssen wir ein wenig tiefer eintauchen, und betrachten die folgenden Szenarien:
+Die Buttons `SYNC` und `REC` dienen dazu, die Studie zu steuern. Dazu müssen wir ein wenig tiefer eintauchen und betrachten die folgenden Szenarien:
 
 * Der Editor alleine in seiner Studie
 * Der Trainer alleine beim Durchspielen der Studie (nicht: erstellen)
@@ -37,26 +37,32 @@ Die Buttons SYNC und REC dienen dazu, die Studie zu steuern. Dazu müssen wir ei
 
 Während der Erstellung einer Studie (unabhängig von den Einstellungen) haben die zwei Knöpfe die folgende Bedeutung:
 
-* Der SYNC Knopf  ist irrelevant, er spielt nur eine Rolle, wenn man gemeinsam mit anderen in einer Studie ist.
-* Der REC Knopf bestimmt, ob gespielte Züge in die Studie übernommen werden.
+* Der `SYNC`-Knopf ist irrelevant, er spielt nur eine Rolle, wenn man gemeinsam mit anderen in einer Studie ist.
+* Der `REC`-Knopf bestimmt, ob gespielte Züge in die Studie übernommen werden.
 
-Das bedeutet, dass man gefahrlos Dinge ausprobieren kann, wenn der REC Button auf aus gestellt ist. Die Züge werden zwar in der Studie angezeit, aber nicht gespeichert. Wenn man den REC Knopf auf an stellt, dann werden die zwischendurch im Modus REC==off gespielten wieder verworfen, es geht da weiter, wo man vorher war.
+Das bedeutet, dass man gefahrlos Dinge ausprobieren kann, wenn der `REC`-Knopf auf `AUS` gestellt ist. Die Züge werden zwar in der Studie angezeigt, aber nicht gespeichert. Wenn man den `REC`-Knopf auf `AN` stellt, dann werden die zwischendurch im Modus REC==`AUS` gespielten wieder verworfen, es geht da weiter, wo man vorher war. Daher gibt es keine (einfache) Möglichkeit, ausprobierte Züge dann später wieder zu speichern.
 
 #### Der Trainer alleine
 
 Ist der Trainer der Ersteller der Studie, sind wir im Modus oben. Ist der Trainer in einer anderen Rolle unterwegs, dann haben wir das folgende Verhalten (separat pro Rolle beschrieben):
 
-* Trainer ist Mitwirkender: Der Trainer kann zwar die Studie verändern, d.h. auch er hat die REC und SYNC Knöpfe sichtbar, aber er sieht leider die verborgenen Züge nicht. Aber wenn er die Züge, die folgt, errät, dann werden diese in der Notation angezeigt. Führt er Züge aus, die nicht in der Studie sind, dann werden diese mit aufgenommen, wenn der REC-Button auf an gestellt ist. Sie werden aber nicht in seiner Notation angezeigt!
-* Trainer ist kein Mitwirkender, bzw. nicht in der Studie: Kein Unterschied mehr zu einem Teilnehmer, weder REC noch SYNC Knopf sind zu Beginn sichtbar, der Trainer ist wie ein passiver Teilnehmer. Sobald durch einen anderen die Stellung verändert wird, taucht der SYNC Knopf mit einer Zahl auf. Durch Drücken des SYNC Knopfes kommt man wieder in die aktuelle Stellung zurück, der SYNC Knopf verschwindet wieder.
+* Trainer ist Mitwirkender: Der Trainer kann zwar die Studie verändern, d.h. auch er hat die REC und SYNC Knöpfe sichtbar, aber er sieht leider die verborgenen Züge nicht. Aber wenn er die Züge, die folgen, errät, werden diese in der Notation angezeigt. Führt er Züge aus, die nicht in der Studie sind, dann werden diese mit aufgenommen, wenn der REC-Button auf `AN` gestellt ist. Sie werden aber nicht in seiner Notation angezeigt! Und ein nur Mitwirkender kann diese Einstellung nicht ändern, da sie alleine vom Besitzer der Studie vergeben ist.
+  Damit ist der Trainer als (nur) Mitwirkender bedauerlicherweise nicht in der Lage, mit der Studie vollumfänglich zu arbeiten. Die Empfehlung hier ist, dass er zuerst eine Kopie der Studie erstellt, diese dann seinen Vorstellungen nach modifiziert, bevor er den Unterricht beginnt.
+* Trainer ist kein Mitwirkender, bzw. nicht in der Studie: Kein Unterschied mehr zu einem Teilnehmer, weder `REC` noch `SYNC` Knopf sind zu Beginn sichtbar, der Trainer ist wie ein passiver Teilnehmer. Sobald durch einen anderen die Stellung verändert wird, taucht der `SYNC` Knopf mit einer Zahl auf. Durch Drücken des `SYNC` Knopfes kommt man wieder in die aktuelle Stellung zurück, der `SYNC`-Knopf verschwindet wieder. Der Trainer kann damit in der Studie nichts steuern!
 
 #### Der Editor zusammen mit anderen
 
-Das ist die übliche Trainingssituation, und hier ist es wichtig, dass man versteht, dass **Züge nur im REC Modus aufgenommen werden, und nur diese Züge dann per SYNC mit anderen Teilnehmern geteilt werden können**. Von daher kann man mit anderen nur dann ad hoc Varianten ausprobieren, wenn diese dann in der Studie gespeichert werden. Die Kombination REC==off und SYNC==on ist nicht möglich!
+Das ist die übliche Trainingssituation, und hier ist es wichtig, dass man versteht, dass **Züge nur im REC Modus aufgenommen werden, und nur diese Züge dann per SYNC mit anderen Teilnehmern geteilt werden können**. Daher kann man mit anderen nur dann Ad-hoc-Varianten ausprobieren, wenn diese dann in der Studie gespeichert werden. Die Kombination REC==off und SYNC==on ist nicht möglich!
 
-- Kommentare: was geht, was nicht
-- NAGs im Detail
-- Computeranalyse und Multibrett
-- Möglichkeiten zum teilen
+Es gibt hier einen einfachen Trick (der auch Nachteile hat): Wenn man in einer Studie etwas zusätzlich zeigen möchte, ohne die Studie dauerhaft zu verändern, kann man mit einem Clone der Studie arbeiten. Das ist dann aber nur eine Kopie, man sollte sich nur angewöhnen, Einmal-Kopien dann hinterher gleich wieder zu löschen.
+
+### Kommentare: was geht, was nicht
+
+### NAGs im Detail
+
+### Computeranalyse und Multi-Brett
+
+### Möglichkeiten zum Teilen
 
 ## Das Eröffnungsbuch & die Tablebase
 
@@ -65,7 +71,7 @@ Das ist die übliche Trainingssituation, und hier ist es wichtig, dass man verst
 
 ## Übergänge zu Studien
 
-Wie kommmt man von unterschiedlichsten Stellen in Lichess in eine Studie, welche Möglichkeiten hat man dabei?
+Wie kommt man von unterschiedlichsten Stellen in Lichess in eine Studie, welche Möglichkeiten hat man dabei?
 
 - Aufnahme von Spielen in eine Studie.
 - Hinzufügen der aktuellen Analyse zu einer Studie.
