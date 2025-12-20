@@ -71,6 +71,8 @@ Kommentare können in jeder beliebigen Sprache erstellt werden, aber Sonderzeich
 
 Die einzige Ausnahme bilden hier Links, die dann auch als Link gerendert werden. Umbrüche bleiben erhalten, es gibt natürlich später keine Gewähr, dass diese in der weiteren Verarbeitung korrekt sind.
 
+![Kommentar mit Link](images/08-comment-with-link.png)
+
 Wenn man Kommentare in mehrfach eingebetteten Varianten hat, so werden diese in immer kleineren Fonts dargestellt. Dabei werden Kommentare immer inline in allen Varianten angezeigt, nur top-level Kommentare werden ohne Einrückung dargestellt. 
 
 #### Kommentare in verborgenen Varianten
