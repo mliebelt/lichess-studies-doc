@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "Lichess Studies",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Lichess Studies Documentation",
+    "description": "The alt text of the navbar logo"
+  },
+  "item.label.Material": {
+    "message": "Material",
+    "description": "Navbar item with label Material"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

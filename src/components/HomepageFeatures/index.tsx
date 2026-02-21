@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 import clsx from "clsx";
 import Heading from "@theme/Heading";
+import Translate from "@docusaurus/Translate";
 import styles from "./styles.module.css";
 
 type FeatureItem = {
@@ -11,26 +12,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Einfach zu nutzen",
+    title: "homepage.features.easyToUse.title",
     Svg: require("@site/static/img/chess-player.svg").default,
     description: (
-      <>Lichess Studien sind sehr einfach zu erstellen und zu bedienen, aber sie sind sehr mächtig, und haben viele, teils versteckte Möglichkeiten.</>
+      <Translate id="homepage.features.easyToUse.description">
+        Lichess Studien sind sehr einfach zu erstellen und zu bedienen, aber sie sind sehr mächtig, und haben viele, teils versteckte Möglichkeiten.
+      </Translate>
     ),
   },
   {
-    title: "Was zählt",
+    title: "homepage.features.whatMatters.title",
     Svg: require("@site/static/img/morphing.svg").default,
     description: (
-      <>
+      <Translate id="homepage.features.whatMatters.description">
         Diese Dokumentation hilft mit dem Einstieg, und versucht dabei den Brückenschlag von "was man zu Beginn wissen sollte" zu "wie man erweiterte Funktionen
         nutzen kann, um überraschendes zu erreichen."
-      </>
+      </Translate>
     ),
   },
   {
-    title: "Überraschend im Ergebnis",
+    title: "homepage.features.surprisingResults.title",
     Svg: require("@site/static/img/lichess-knight.svg").default,
-    description: <>Alles von Partienalaysen, Unterrichtseinheiten, Selbstlernmaterial, und auch die Integration in den Rest der Welt.</>,
+    description: (
+      <Translate id="homepage.features.surprisingResults.description">
+        Alles von Partienalaysen, Unterrichtseinheiten, Selbstlernmaterial, und auch die Integration in den Rest der Welt.
+      </Translate>
+    ),
   },
 ];
 
@@ -41,7 +48,9 @@ function Feature({ title, Svg, description }: FeatureItem) {
         <Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
+        <Heading as="h3">
+          <Translate id={title}>{title}</Translate>
+        </Heading>
         <p>{description}</p>
       </div>
     </div>

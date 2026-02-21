@@ -10,5 +10,32 @@
   },
   "Description of Lichess Studies Documentation": {
     "message": "Documentation for Lichess Studies"
+  },
+  "homepage.title": {
+    "message": "Lichess Studies Documentation"
+  },
+  "homepage.tagline": {
+    "message": "Lichess is cool"
+  },
+  "homepage.button.getStarted": {
+    "message": "Lichess Studies"
+  },
+  "homepage.features.easyToUse.title": {
+    "message": "Easy to Use"
+  },
+  "homepage.features.easyToUse.description": {
+    "message": "Lichess Studies are very easy to create and use, but they are very powerful and have many, sometimes hidden, features."
+  },
+  "homepage.features.whatMatters.title": {
+    "message": "What Matters"
+  },
+  "homepage.features.whatMatters.description": {
+    "message": "This documentation helps you get started and attempts to bridge the gap from \"what you should know at the beginning\" to \"how to use advanced features to achieve surprising results.\""
+  },
+  "homepage.features.surprisingResults.title": {
+    "message": "Surprising Results"
+  },
+  "homepage.features.surprisingResults.description": {
+    "message": "Everything from game analyses, teaching units, self-learning materials, and also integration with the rest of the world."
   }
 }

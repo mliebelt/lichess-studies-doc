@@ -10,5 +10,32 @@
   },
   "Description of Lichess Studies Documentation": {
     "message": "Dokumentation für Lichess Studies"
+  },
+  "homepage.title": {
+    "message": "Dokumentation von Lichess Studien"
+  },
+  "homepage.tagline": {
+    "message": "Lichess ist cool"
+  },
+  "homepage.button.getStarted": {
+    "message": "Lichess Studien"
+  },
+  "homepage.features.easyToUse.title": {
+    "message": "Einfach zu nutzen"
+  },
+  "homepage.features.easyToUse.description": {
+    "message": "Lichess Studien sind sehr einfach zu erstellen und zu bedienen, aber sie sind sehr mächtig, und haben viele, teils versteckte Möglichkeiten."
+  },
+  "homepage.features.whatMatters.title": {
+    "message": "Was zählt"
+  },
+  "homepage.features.whatMatters.description": {
+    "message": "Diese Dokumentation hilft mit dem Einstieg, und versucht dabei den Brückenschlag von \"was man zu Beginn wissen sollte\" zu \"wie man erweiterte Funktionen nutzen kann, um überraschendes zu erreichen.\""
+  },
+  "homepage.features.surprisingResults.title": {
+    "message": "Überraschend im Ergebnis"
+  },
+  "homepage.features.surprisingResults.description": {
+    "message": "Alles von Partienalaysen, Unterrichtseinheiten, Selbstlernmaterial, und auch die Integration in den Rest der Welt."
   }
 }
