@@ -11,7 +11,7 @@ You may of course just use the files directly on Github. But the main use of it 
 So go to
 
 * [Lichess Studien](https://lichess-studies-doc.netlify.app/docs/introduction/) The German part of the  documentation. That is my mother tounge, and my other documentation projects are German-only.
-* [Lichess Studies](https://lichess-studies-doc.netlify.app/en/docs/lichess-studies/introduction) The corresponding English counterpart. I will try to have them both updated in parallel all the time.
+* [Lichess Studies](https://lichess-studies-doc.netlify.app/en/docs/introduction) The corresponding English counterpart. I will try to have them both updated in parallel all the time.
 
 ## Other material
 
